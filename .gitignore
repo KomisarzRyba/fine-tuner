@@ -1,0 +1,6 @@
+.vscode
+node_modules
+.env*
+data.jsonl
+dist
+.DS_Store
